@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Eric Su | Software Engineer', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  description: `Eric Su's portfolio site`, // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'eric_su_photo_square.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
