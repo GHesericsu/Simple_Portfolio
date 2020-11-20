@@ -35,7 +35,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: `Harry's BnB`,
     info: '',
     info2: '',
     url: '',
@@ -44,7 +44,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: 'CloundStay',
     info: '',
     info2: '',
     url: '',
@@ -53,11 +53,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: 'Mix Streams',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/GHesericsu/Mix-Streams', // if no repo, the button will not show up
   },
 ];
 
