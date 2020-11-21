@@ -39,7 +39,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/GHesericsu/HarryBnb-Reviews', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -48,7 +48,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/GHesericsu/cloudStay-PhotoGallery', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
