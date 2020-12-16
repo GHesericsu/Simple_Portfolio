@@ -43,7 +43,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'cloudStaysStats.png',
     title: 'CloundStay',
     info: '',
     info2: '',
@@ -52,7 +52,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'ERIC_SU_LIVE.png',
     title: 'Mix Streams',
     info: '',
     info2: '',
