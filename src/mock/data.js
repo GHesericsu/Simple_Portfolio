@@ -34,7 +34,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'HARRYSQL_REVIEWS.png',
     title: `Harry's BnB`,
     info: '',
     info2: '',
