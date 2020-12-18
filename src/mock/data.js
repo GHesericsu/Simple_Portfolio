@@ -36,18 +36,20 @@ export const projectsData = [
     id: nanoid(),
     img: 'HARRYSQL_REVIEWS.png',
     title: `Harry's BnB`,
-    info: '',
-    info2: '',
-    url: '',
+    info:
+      'I designed and implemented the UI of the users reviews microservice and achieved 100/100 on Google PageSpeed Insights by optimizing user images. Interesting features include dynamic text truncating, a pop-up modal to see more lazy-loaded reviews, and dynamic rating bars',
+    info2: 'The module is deployed with AWS(EC2, CloudFront) and Docker containers',
+    url: 'https://youtu.be/p5fqJuJXYno',
     repo: 'https://github.com/GHesericsu/HarryBnb-Reviews', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'cloudStaysStats.png',
     title: 'CloundStay',
-    info: '',
-    info2: '',
-    url: '',
+    info:
+      'I redesigned the APIs of the photo gallery microservice to accommodate 100MM primary records.',
+    info2: `I also optimize the MySQL database queries and scaled out 8 servers with Nginx load balancer in order to increase throughput to around 700 requests per second and less than 10ms average latency. The backend is stress tested with Loader.io and results measured with New Relic'`,
+    url: 'https://github.com/GHesericsu/cloudStay-PhotoGallery',
     repo: 'https://github.com/GHesericsu/cloudStay-PhotoGallery', // if no repo, the button will not show up
   },
   {
@@ -56,7 +58,7 @@ export const projectsData = [
     title: 'Mix Streams',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://youtu.be/jvZLXbWiUmg',
     repo: 'https://github.com/GHesericsu/Mix-Streams', // if no repo, the button will not show up
   },
 ];
