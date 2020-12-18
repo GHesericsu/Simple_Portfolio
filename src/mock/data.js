@@ -56,7 +56,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'ERIC_SU_LIVE.png',
     title: 'Mix Streams',
-    info: '',
+    info:
+      'I built a RTMP server in Node and transcoded streams into HLS using FFmpeg to display live streams to viewers',
     info2: '',
     url: 'https://youtu.be/jvZLXbWiUmg',
     repo: 'https://github.com/GHesericsu/Mix-Streams', // if no repo, the button will not show up
